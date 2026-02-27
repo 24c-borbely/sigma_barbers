@@ -1,0 +1,13 @@
+
+*{
+    background-color: #14213d;
+  color: #E5E5E5;
+}
+.container-fluid{
+    border: 1px groove #FCA311;
+}
+#kozep{
+    background-image: url(sigma1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
