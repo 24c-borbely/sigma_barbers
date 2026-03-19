@@ -61,14 +61,11 @@ h1, h2 {
     color: #14213d !important;
     font-weight: bold;
 }
-.btn-warning:hover {
-    background-color: #FFD700 !important;
-    border-color: #FFD700 !important;
-}
+
 img {
   border-radius: 50%;
 }
-#hero {
+#cim {
     background-image: url('sigma1.webp');
     background-size: cover;
     background-position: center;
@@ -79,7 +76,7 @@ img {
     justify-content: center;
     position: relative;
 }
-#hero::before {
+#cim::before {
     content: '';
     position: absolute;
     top: 0;
@@ -89,7 +86,7 @@ img {
     background-color: rgba(20, 33, 61, 0.7);
     z-index: 0;
 }
-#hero h1 {
+#cim h1 {
     position: relative;
     z-index: 1;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
