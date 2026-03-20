@@ -63,7 +63,7 @@ h1, h2 {
 }
 
 img {
-  
+
 }
 #cim {
     background-image: url('sigma1.webp');
@@ -94,10 +94,12 @@ img {
 }
 footer {
     background-color: #14213d !important;
+    margin-top: 500px
 }
 .card-img-top {
-    height: 40vw;
+    height: 30vw;
     object-fit: cover;
+
 }
 .card{
     display: flex;
@@ -105,4 +107,5 @@ footer {
     gap: 20px;
     justify-content: center;
     height: 100%;
+        margin: 10%;    
 }
