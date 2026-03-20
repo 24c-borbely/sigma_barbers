@@ -1,43 +1,43 @@
 
 *{
-    background-color: #14213d !important;
+    background-color: #14213d;
   color: #E5E5E5;
 }
 body, html {
-    background-color: #14213d !important;
+    background-color: #14213d ;
 }
 .navbar {
-    background-color: #14213d !important;
+    background-color: #14213d ;
     border-bottom: 2px solid #FCA311;
 }
 .navbar-toggler {
-    border-color: #FCA311 !important;
+    border-color: #FCA311 ;
 }
 .container-fluid{
     border: 1px groove #FCA311;
-    background-color: #14213d !important;
+    background-color: #14213d ;
 }
 #kozep{
-    background-color: #14213d !important;
+    background-color: #14213d ;
 }
 section {
-    background-color: #14213d !important;
+    background-color: #14213d ;
 }
 .row {
-    background-color: #14213d !important;
+    background-color: #14213d ;
 }
 h1, h2 {
-    color: #FCA311 !important;
+    color: #FCA311 ;
 }
 .card {
     border: 2px solid #FCA311;
-    background-color: #0f1f2e !important;
+    background-color: #0f1f2e;
 }
 .card-body {
-    background-color: #0f1f2e !important;
+    background-color: #0f1f2e ;
 }
 .card-title {
-    color: #FFD700 !important;
+    color: #FFD700 ;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -49,16 +49,16 @@ h1, h2 {
     pointer-events: none;
 }
 .about-card {
-    border: 2px solid #FCA311 !important;
-    background-color: #0f1f2e !important;
+    border: 2px solid #FCA311 ;
+    background-color: #0f1f2e ;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 .btn-warning {
-    background-color: #FCA311 !important;
-    border-color: #FCA311 !important;
-    color: #14213d !important;
+    background-color: #FCA311 ;
+    border-color: #FCA311 ;
+    color: #14213d ;
     font-weight: bold;
 }
 
@@ -93,5 +93,5 @@ img {
     font-weight: bold;
 }
 footer {
-    background-color: #14213d !important;
+    background-color: #14213d ;
 }
