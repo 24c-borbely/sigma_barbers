@@ -63,7 +63,7 @@ h1, h2 {
 }
 
 img {
-  border-radius: 50%;
+  
 }
 #cim {
     background-image: url('sigma1.webp');
@@ -93,5 +93,20 @@ img {
     font-weight: bold;
 }
 footer {
+<<<<<<< HEAD
     background-color: #14213d ;
+=======
+    background-color: #14213d !important;
+}
+.card-img-top {
+    height: 40vw;
+    object-fit: cover;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    height: 100%;
+>>>>>>> ffa16ad9f274807e4ec3fbc92fa7e93d6c34b658
 }
